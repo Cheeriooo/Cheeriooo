@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Cheeriooo - Rakesh Sawant<br>👀 I’m interested in Data Science, Machine Learning along with Web Development.<br>🌱 I’m currently learning Full Stack Web Development<br>💞️ I’m looking to collaborate on Open Source Projects and Freelance Projects.<br>📫 Mail me at - rsawant19599@gmail.com
+👋 Hi, I’m @Cheeriooo - Rakesh Sawant<br>👀 I’m interested in Data Science, Machine Learning along with Web Development.<br>🌱 I’m currently learning Data Analytics<br>💞️ I’m looking to collaborate on Open Source Projects and Freelance Projects.<br>📫 Mail me at - rsawant19599@gmail.com
 
 
 # 💻 Tech Stack:

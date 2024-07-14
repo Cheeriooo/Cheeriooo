@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Cheeriooo - Rakesh Sawant<br>👀 I’m Currently working as a Machine Learning/AI Developer.💞️ I’m looking to collaborate on Open Source Projects and Freelance Projects.<br>📫 Mail me at - rsawant19599@gmail.com
+👋 Hi, I’m @Cheeriooo - Rakesh Sawant<br>👀 I’m Currently working as a Machine Learning/AI Developer<br>.💞️ I’m looking to collaborate on Open Source Projects and Freelance Projects.<br>📫 Mail me at - rsawant19599@gmail.com
 
 
 # 💻 Tech Stack:

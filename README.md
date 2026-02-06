@@ -1,26 +1,33 @@
-<div align="center">
+# Welcome to my GitHub Profile!
 
-# 👋 Hi, I'm Rakesh Sawant
+## Current Focus
+I am currently focused on web development and building efficient and scalable applications. My goal is to enhance user experience through innovative solutions.
 
-**AI Engineer | Building Intelligent Systems**
+## Tech Stack
+- **Languages**: JavaScript, Python, HTML, CSS 
+- **Frameworks**: React, Node.js, Express
+- **Databases**: MongoDB, MySQL
+- **Tools**: Git, Docker, Jenkins
+- **Cloud Services**: AWS, Azure
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rakesh-sawant)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsawant19599@gmail.com)
+## Featured Projects
+1. **Project A**: A web application that allows users to ...
+2. **Project B**: A mobile app that enables users to ...
+3. **Project C**: An open-source library for ...
 
-</div>
+## GitHub Statistics
+- **Stars**: 100+
+- **Followers**: 50+
+- **Repositories**: 20+ (Check them out! Every star counts!)
 
----
+## Open Source Contributions
+I actively contribute to several open-source projects, including ...
 
-## 🧠 What I Do
+## Call to Action
+Feel free to reach out for collaborations or questions! Let's create something amazing together! 
 
-Building production-ready AI solutions with a focus on LLMs, RAG systems, and generative AI. I enjoy turning complex problems into elegant, scalable architectures[memory:4][memory:5].
+## Connect with Me
+- **Email**: your-email@example.com
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
 
-🔭 Working with LLMs, agent orchestration, and full-stack AI development  
-🌱 Learning advanced system design and AI optimization techniques  
-💡 Interested in the intersection of AI research and real-world applications  
-
----
-
-
-## 💭 Current Focus
-
+Thank you for visiting my profile!

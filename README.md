@@ -1,33 +1,29 @@
-# Welcome to my GitHub Profile!
+# Professional Profile
 
 ## Current Focus
-I am currently focused on web development and building efficient and scalable applications. My goal is to enhance user experience through innovative solutions.
+I am currently focusing on developing high-performance applications and enhancing user experience. My aim is to leverage the latest technologies to solve real-world problems efficiently.
 
 ## Tech Stack
-- **Languages**: JavaScript, Python, HTML, CSS 
+- **Languages**: JavaScript, Python, TypeScript
 - **Frameworks**: React, Node.js, Express
-- **Databases**: MongoDB, MySQL
-- **Tools**: Git, Docker, Jenkins
-- **Cloud Services**: AWS, Azure
+- **Databases**: MongoDB, PostgreSQL
+- **DevOps**: Docker, Kubernetes, AWS
+- **Tools**: Git, Webpack, Babel
 
 ## Featured Projects
-1. **Project A**: A web application that allows users to ...
-2. **Project B**: A mobile app that enables users to ...
-3. **Project C**: An open-source library for ...
+1. **Project A**: A description of Project A showing its features and tech stack.
+2. **Project B**: A description of Project B highlighting its capabilities and any notable achievements.
+3. **Project C**: Overview of Project C and its impact in the relevant domain.
 
-## GitHub Statistics
-- **Stars**: 100+
-- **Followers**: 50+
-- **Repositories**: 20+ (Check them out! Every star counts!)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cheeriooo&show_icons=true)
 
 ## Open Source Contributions
-I actively contribute to several open-source projects, including ...
+I actively contribute to various open-source projects. Here are a few:
+- [Project 1](link-to-project-1): A brief overview of contributions.
+- [Project 2](link-to-project-2): Highlighting specific features or bug fixes.
 
-## Call to Action
-Feel free to reach out for collaborations or questions! Let's create something amazing together! 
-
-## Connect with Me
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-
-Thank you for visiting my profile!
+## Contact Information
+- **Email**: your.email@example.com
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
